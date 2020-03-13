@@ -143,6 +143,15 @@ dist/
 # sftp configuration file
 sftp-config.json
 
+#### ENV ###
+*.env
+.env
+
+### PROJECT ###
+haters/
+.next/
+.build/
+layout.md
 
 ### Code ###
 # Visual Studio Code - https://code.visualstudio.com/
